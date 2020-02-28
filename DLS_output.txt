@@ -1,0 +1,10 @@
+Initial state :
+6 7 3 
+2 4 0 
+8 1 5 
+
+CutOff occured. 
+No Aceepted state.
+Total call: 163345
+Total node Create: 98758
+Elapsed Time : 13.33538556098938

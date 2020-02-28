@@ -1,0 +1,135 @@
+Initial state :
+6 7 3 
+2 4 0 
+8 1 5 
+
+Depth: 25
+Number of call: 274192
+Number of node created: 142080
+Time : 23.83875060081482
+
+Current Move: up, Current Depth: 1
+6 7 0 
+2 4 3 
+8 1 5 
+
+Current Move: left, Current Depth: 2
+6 0 7 
+2 4 3 
+8 1 5 
+
+Current Move: left, Current Depth: 3
+0 6 7 
+2 4 3 
+8 1 5 
+
+Current Move: down, Current Depth: 4
+2 6 7 
+0 4 3 
+8 1 5 
+
+Current Move: right, Current Depth: 5
+2 6 7 
+4 0 3 
+8 1 5 
+
+Current Move: down, Current Depth: 6
+2 6 7 
+4 1 3 
+8 0 5 
+
+Current Move: left, Current Depth: 7
+2 6 7 
+4 1 3 
+0 8 5 
+
+Current Move: up, Current Depth: 8
+2 6 7 
+0 1 3 
+4 8 5 
+
+Current Move: right, Current Depth: 9
+2 6 7 
+1 0 3 
+4 8 5 
+
+Current Move: right, Current Depth: 10
+2 6 7 
+1 3 0 
+4 8 5 
+
+Current Move: up, Current Depth: 11
+2 6 0 
+1 3 7 
+4 8 5 
+
+Current Move: left, Current Depth: 12
+2 0 6 
+1 3 7 
+4 8 5 
+
+Current Move: down, Current Depth: 13
+2 3 6 
+1 0 7 
+4 8 5 
+
+Current Move: right, Current Depth: 14
+2 3 6 
+1 7 0 
+4 8 5 
+
+Current Move: down, Current Depth: 15
+2 3 6 
+1 7 5 
+4 8 0 
+
+Current Move: left, Current Depth: 16
+2 3 6 
+1 7 5 
+4 0 8 
+
+Current Move: up, Current Depth: 17
+2 3 6 
+1 0 5 
+4 7 8 
+
+Current Move: right, Current Depth: 18
+2 3 6 
+1 5 0 
+4 7 8 
+
+Current Move: up, Current Depth: 19
+2 3 0 
+1 5 6 
+4 7 8 
+
+Current Move: left, Current Depth: 20
+2 0 3 
+1 5 6 
+4 7 8 
+
+Current Move: left, Current Depth: 21
+0 2 3 
+1 5 6 
+4 7 8 
+
+Current Move: down, Current Depth: 22
+1 2 3 
+0 5 6 
+4 7 8 
+
+Current Move: down, Current Depth: 23
+1 2 3 
+4 5 6 
+0 7 8 
+
+Current Move: right, Current Depth: 24
+1 2 3 
+4 5 6 
+7 0 8 
+
+Current Move: right, Current Depth: 25
+1 2 3 
+4 5 6 
+7 8 0 
+
